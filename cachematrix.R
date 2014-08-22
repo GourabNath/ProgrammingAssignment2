@@ -1,5 +1,4 @@
 ## Assignment: Caching the Inverse of a Matrix
-
 ## Matrix inversion is usually a costly computation. Through this programme we will see the benefit 
 ## to caching the inverse of a matrix rather than compute it repeatedly.
 
